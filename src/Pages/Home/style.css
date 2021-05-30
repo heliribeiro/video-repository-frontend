@@ -1,0 +1,38 @@
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.header-button {
+  margin-left: 20px;
+}
+
+h2 {
+  color: #999999;
+}
+
+.home {
+  background-color: #1A242E;
+}
+
+.logo {
+  color: #999999;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+
+.category-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  margin-top: 40px;
+}
+.carousel-item {
+  width: 500;
+  height: 400;
+}

@@ -1,0 +1,21 @@
+.container {
+  background-color: #1A242E;
+}
+
+h1 {
+  color: #999999;
+}
+
+.label {
+  color: #999999;
+  font-weight: bolder;
+}
+
+.buttons {
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.buttons button {
+  margin-right: 20px;
+}
